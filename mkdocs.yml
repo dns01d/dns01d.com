@@ -1,6 +1,14 @@
 site_name: dns01d - Cloud provider ACME DNS-01 validation without exposing DNS API tokens
 site_url: https://dns01d.com/
+repo_name: dns01d/dns01d
+repo_url: https://github.com/dns01d/dns01d
+copyright: dns01d
+
 theme:
   name: dracula
+  logo: img/dns01d.png
+  favicon: img/favicon.ico
+
 nav:
   - Home: index.md
+  
