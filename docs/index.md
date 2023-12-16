@@ -10,4 +10,4 @@ Coming soon...
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./license)
