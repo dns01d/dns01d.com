@@ -6,7 +6,17 @@
 
 ## What is dns01d?
 
-Coming soon...
+dns01d comes in two flavors:
+
+<div class="drac-text-center">
+
+| **dns01d**<br>(Core) | **dns01d-cf**<br>(CloudFlare Worker) |
+| :---: | :---: |
+| Self-hosted multi-cloud daemon | Lightweight CloudFlare Worker for only domains on CloudFlare |
+
+</div>
+
+More coming soon...
 
 ## License
 
