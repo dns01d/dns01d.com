@@ -1,7 +1,9 @@
-site_name: dns01d - Cloud provider ACME DNS-01 validation without exposing DNS API tokens
+site_name: dns01d
 site_url: https://dns01d.com/
 repo_name: dns01d/dns01d
 repo_url: https://github.com/dns01d/dns01d
+
+description: Cloud provider ACME DNS-01 validation without exposing DNS API tokens
 copyright: dns01d
 
 theme:
