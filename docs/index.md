@@ -13,7 +13,7 @@
 | **dns01d**<br>_(Core)_ | **dns01d-cf**<br>_(CloudFlare Worker)_ |
 | :---: | :---: |
 | Self-hosted multi-cloud daemon | Lightweight CloudFlare Worker for only domains on CloudFlare |
-| (GitHub Repository)[https://github.com/dns01d/dns01d] - Docs (Coming Soon) | (GitHub Repository)[https://github.com/dns01d/dns01d-cf] - Docs (Coming Soon) |
+| [GitHub Repository](https://github.com/dns01d/dns01d) - Docs (Coming Soon) | [GitHub Repository](https://github.com/dns01d/dns01d-cf) - Docs (Coming Soon) |
 
 More coming soon...
 
