@@ -1,0 +1,6 @@
+site_name: dns01d - Cloud provider ACME DNS-01 validation without exposing DNS API tokens
+site_url: https://dns01d.com/
+theme:
+  name: dracula
+nav:
+  - Home: index.md
